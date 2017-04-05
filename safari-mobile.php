@@ -5,4 +5,21 @@
     html, body {
         position:fixed;
     }
+    #safari-mobile-notice {
+        display:initial;
+    }
+    main {
+        /*overflow:auto;
+        -webkit-overflow-scrolling:touch;*/
+        height:calc(100% - 230px);
+    }
+    footer {
+        height: 104px;
+    box-sizing: border-box;
+}
+header {
+    height: 126px;
+    box-sizing: border-box;
+}
 </style>
+<!-- <script src="iNoBounce/inobounce.min.js" type="text/javascript"></script> -->

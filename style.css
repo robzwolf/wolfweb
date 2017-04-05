@@ -15,9 +15,24 @@ body {
     font-family:'robotoblack';
 }
 
-header {
+header, footer {
     text-align: center;
     background: #1f2532;
     color: #d9e1e9;
     padding:8px;
+    position: fixed;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+#top-spacer {
+    height:126px;
+}
+
+
+#safari-mobile-notice {
+    display:none;
 }

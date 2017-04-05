@@ -6,4 +6,17 @@
 <p>This is some text.</p>
 <p>This is some more text.</p>
 <h1>This is a heading.</h1>
-<p>Your user agent is: <code><?php echo $_SERVER["HTTP_USER_AGENT"]; ?></code>
+<p>Your user agent is: <code><?php echo $_SERVER["HTTP_USER_AGENT"]; ?></code></p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
+<p>Text</p>
